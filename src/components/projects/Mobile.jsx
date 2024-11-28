@@ -78,7 +78,7 @@ export default function Mobile() {
                 className='bg-white bg-opacity-25 aspect-[1.34] object-cover object-center w-full overflow-hidden self-stretch grow max-md:max-w-full rounded-lg mb-4'
                 onLoad={() => setShowLoader(false)}
               />
-              <p className='text-sm tracking-[0.42px] text-justify'>{project.description}</p>
+              <p className='text-sm tracking-[0.42px]'>{project.description}</p>
             </div>
           </div>
         </div>
