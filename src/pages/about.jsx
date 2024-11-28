@@ -12,11 +12,11 @@ const About = () => {
         </div>
 
         <div className='animate-fade animate-duration-[2000ms] animate-ease-in'>
-          <h3 className='text-[#f33f3f] mb-[14px]'>Who am i?</h3>
+          <h3 className='text-[#f33f3f] mb-[14px] font-semibold'>Who am I?</h3>
           <h3 className='mb-2 text-[28px] font-bold tracking-[0.84px]'>
             I’m Tushar Suryawanshi, a Frontend Developer
           </h3>
-          <p className='leading-[150%] tracking-[0.48px] lg:w-[90%] mb-5'>
+          <p className='leading-[150%] tracking-[0.48px] lg:w-[90%] mb-5 text-justify'>
             As a passionate frontend developer, I specialize in creating exceptional web experiences that combine clean code with beautiful user interfaces. With expertise in React.js, Next.js, and modern frontend technologies, I transform design concepts into responsive, performant, and user-friendly applications.
             <br />
             <br />
